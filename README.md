@@ -70,7 +70,7 @@ Développer un algorithme de classification d’émotions (joie, peur, tristesse
 
 ---
 
-### 🧠 Matrice de confusion
+### Matrice de confusion
 
 ![Matrice de confusion](graph/Matrice_confusion.png)
 
