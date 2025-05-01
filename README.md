@@ -98,7 +98,7 @@ python main_emotion_recognition.py
 
 Les données EEG sont issues du dataset **SEED-IV** disponible publiquement sur Kaggle.
 
-🔗 Lien : [SEED-IV Emotion EEG Dataset on Kaggle](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)
+🔗 Lien : [SEED-IV Emotion EEG Dataset on Kaggle](https://www.kaggle.com/datasets/phhasian0710/seed-iv?resource=download)
 
 Chaque session contient 24 essais EEG associés à une émotion (joy, sadness, fear, neutral).
 
