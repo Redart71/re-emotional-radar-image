@@ -96,8 +96,26 @@ python main_emotion_recognition.py
 
 ## 📦 Données
 
-Les données EEG sont issues du dataset public SEED-IV sur Kaggle.
+Les données EEG sont issues du dataset **SEED-IV** disponible publiquement sur Kaggle.
+
+🔗 Lien : [SEED-IV Emotion EEG Dataset on Kaggle](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)
+
 Chaque session contient 24 essais EEG associés à une émotion (joy, sadness, fear, neutral).
+
+### 📥 Installation des données (manuel)
+
+1. Téléchargez les fichiers `.mat` du dataset SEED-IV depuis Kaggle via le lien ci-dessus.
+2. Créez un dossier `eeg_raw_data/` à la racine du projet (s'il n'existe pas).
+3. Placez les fichiers `.mat` téléchargés dans ce dossier :
+
+```bash
+mkdir eeg_raw_data
+```
+
+Puis placez les fichiers .mat ici manuellement.
+
+⚠️ Les fichiers .mat sont volumineux : ils ne sont pas inclus dans le dépôt Git pour éviter les limitations de bande passante (LFS).
+
 
 ## 🧠 Modèle utilisé
 
