@@ -128,4 +128,5 @@ Choisi pour sa profondeur raisonnable et ses performances éprouvées sur des t�
 ## 📝 Auteurs
 
 Arthur JAFFRE
+
 Projet de Reconnaissance Émotionnelle – École Hexagone
