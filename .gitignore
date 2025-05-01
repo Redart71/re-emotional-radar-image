@@ -1,0 +1,6 @@
+ReEnv
+scripts
+dataset_split
+dataset_images
+eeg_raw_data/
+__pycache__/
