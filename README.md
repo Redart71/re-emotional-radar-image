@@ -15,6 +15,7 @@ Développer un algorithme de classification d’émotions (joie, peur, tristesse
 | `eeg_raw_data/`              | Données EEG brutes (fichiers `.mat`)                   |
 | `graph/`              | Matrice de confusion et courbe d'apprentissage                   |
 | `model/`              | Modèle enregistré                  |
+| `slides/`              | Slides de présentation du projet                 |
 | `main_emotion_recognition.py`| Script principal du projet                              |
 | `requirements.txt`           | Fichier listant les dépendances Python                 |
 | `README.md`                  | Fichier de documentation du projet                     |
